@@ -1,6 +1,6 @@
 # For submission of R² Data Labs Responsible Growth Hack
 
-# Hariyali
+# Hariyali Backend
 
 [![Python 3.7](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-370/)
 
@@ -28,8 +28,11 @@ Remember the craze, when the Pokemon Go first launched for our mobiles. We spend
 - Deployment : GitHub Actions
 - APIs: Plant.id, Azure Cognitive Services, Google Cloud Vertex AI
 
+#### Link to frontend Repo: [https://github.com/bhavya132/hariyali-backend](https://github.com/bhavya132/hariyali-frontend)
+
+
 ## Note
-Since it is the submission for the Google hackathon, all the keys are exposed so that one could smoothly run the code if needed. 
+Since it is the submission for a hackathon, all the keys are exposed so that one could smoothly run the code if needed. 
 
 ## How to run the code.
 1. Unzip the folder.
